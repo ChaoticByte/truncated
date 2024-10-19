@@ -1,0 +1,13 @@
+{
+	"required": true,
+	"package": "net.chaoticbyte.truncated.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"FlatChunkGeneratorMixin",
+		"NoiseChunkGeneratorMixin",
+		"ChunkRegionMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
