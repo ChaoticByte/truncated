@@ -3,6 +3,8 @@
 This Minecraft mod allows you to prevent the world generator from generating new chunks past a defined limit.  
 You can set the limit by changing the gamerule `chunkGenerationLimit`.
 
+This mod also adds an alternative ending. You can turn this off with `/gamerule truncatedAlternativeEnding false`.
+
 Requires Fabric API!
 
 ## Known Incompatibilities

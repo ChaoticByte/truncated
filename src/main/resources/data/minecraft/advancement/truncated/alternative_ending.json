@@ -1,0 +1,22 @@
+{
+  "parent": "minecraft:story/root",
+  "criteria": {
+    "reached_limit": {"conditions": {}, "trigger": "minecraft:truncated/reached_limit"}
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "text": "You have traveled beyond the natural limits of this world (alternative ending)"
+    },
+    "frame": "goal",
+    "hidden": false,
+    "icon": {
+      "id": "minecraft:compass"
+    },
+    "title": {
+      "text": "The Limits of this World"
+    },
+    "show_toast": true
+  },
+  "requirements": [["reached_limit"]]
+}
