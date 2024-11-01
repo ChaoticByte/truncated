@@ -14,7 +14,3 @@ Requires Fabric API!
 
 Note that this mod messes with Minecraft's chunk generation in a way that may lead to unexpected behaviour,
 especially in combination with other mods!
-
-## Supported Minecraft versions
-
-- 1.21.1 / Fabric with Fabric API
