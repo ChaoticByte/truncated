@@ -1,3 +1,4 @@
 {
-  "gamerule.chunkGenerationLimit": "Chunk Generation Limit"
+  "gamerule.chunkGenerationLimit": "(Truncated) Chunk Generation Limit",
+  "gamerule.truncatedAlternativeEnding": "(Truncated) Enable Alternative World Ending"
 }
