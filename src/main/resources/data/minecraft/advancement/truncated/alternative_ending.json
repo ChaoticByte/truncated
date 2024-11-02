@@ -18,5 +18,8 @@
     },
     "show_toast": true
   },
-  "requirements": [["reached_limit"]]
+  "requirements": [["reached_limit"]],
+  "rewards": {
+    "experience": 2500
+  }
 }
